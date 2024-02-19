@@ -2,7 +2,7 @@ Data Input:
 Place the CSV file named "visa_number_in_japan.csv" in the "input" directory of your project.
 
 Run the Script:
-Execute the provided Python script. This script likely performs data processing tasks such as cleaning, analyzing, or visualizing the data.
+Execute the provided Python script by submitting this to the spark master . This script likely performs data processing tasks such as cleaning, analyzing, or visualizing the data.
 
 Visualizations:
 After executing the script, you'll find the visualizations saved as HTML files in the "output" directory. These visualizations are likely generated from the processed data to provide insights or summaries.
