@@ -11,4 +11,4 @@ Cleaned Data:
 The cleaned data will also be saved as a CSV file in the "output" directory. This CSV file contains the processed and cleaned data ready for further analysis or use.
 
 #Output
-!Screenshot from 2024-02-20 00-56-39.png
+!https://github.com/pandey0/spark_visaData/blob/master/Screenshot%20from%202024-02-20%2000-56-39.png
