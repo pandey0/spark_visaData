@@ -10,5 +10,9 @@ After executing the script, you'll find the visualizations saved as HTML files i
 Cleaned Data:
 The cleaned data will also be saved as a CSV file in the "output" directory. This CSV file contains the processed and cleaned data ready for further analysis or use.
 
-###Output
+Output
 ![Alt Text](https://github.com/pandey0/spark_visaData/blob/master/Screenshot%20from%202024-02-20%2000-56-39.png)
+
+![Alt Text](https://github.com/pandey0/spark_visaData/blob/master/Screenshot%20from%202024-02-20%2000-57-10.png)
+
+![ALT TEXT](https://github.com/pandey0/spark_visaData/blob/master/Screenshot%20from%202024-02-20%2000-57-32.png)
