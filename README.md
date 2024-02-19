@@ -1,3 +1,7 @@
+Setup:
+spin up the docker compose: This runs the master and the 4 worker node [command: docker-compose up -d]
+submit the visual.py file which is our job file  to the master[command:docker exec -it "master node id" spark-submit --master spar://172.18.0.2:7077 jobs/visual.py]
+
 Data Input:
 Place the CSV file named "visa_number_in_japan.csv" in the "input" directory of your project.
 
